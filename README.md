@@ -79,3 +79,14 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+
+Survey Questions:
+  1. What parts of the worskhop today were awesome for your learning?
+  2. What parts of today's workshop could be improved for next time?
+  3. On a scale of 1-10 how likely are you to recommend this workshop to a friend?
+  
+Survey Answers:
+  1. The parts of the workshop I found to be very helpful were the Git lessons.
+  2. I feel like there was a bit of rushing through the slides, and I found myself losing track later when doing the git practice - particularly merge, push & pull.  - But I confess I learn these skills through repetition
+  3. 9 - I have a few friends who could certainly use this knowledge, and have expressed interest in learning it.  Due to doing the pre-work I did find the pre lunch information and set up a bit redudant, but I recognize the need for it.
+  
